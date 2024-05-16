@@ -39,4 +39,4 @@ Esta es una matriz que contiene los nombres de los colores reconocidos para resi
 
 *Si quisiera saber el código numérico para el color "verde", podrías hacerlo llamando a colorCode('verde'), que devolvería 5. Del mismo modo, si necesitas saber qué color corresponde al código numérico 3, podrías obtenerlo accediendo a COLORS[3], lo que daría como resultado "orange" (naranja).* 
 
-LINK DE YOUTUBE: https://youtu.be/tDs4qQ1OQOI 
+## LINK DE YOUTUBE: <https://youtu.be/PQiTY9HeI3w >
