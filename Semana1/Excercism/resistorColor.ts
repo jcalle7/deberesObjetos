@@ -37,4 +37,3 @@ export const colorCode = (color: string): number => {
     'grey',
     'white'
   ];
-  

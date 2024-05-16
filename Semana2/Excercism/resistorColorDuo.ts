@@ -1,5 +1,5 @@
 export function decodedValue(colors: string[]): number {
-    // Diccionario de colores a valores numéricos
+
     const colorMap: Record<string, number> = {
       "black": 0,
       "brown": 1,
