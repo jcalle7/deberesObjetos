@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\José\\Documents\\GitHub\\deberesObjetosSemana5\\deberesObjetos\\TA\\DOTNET Project\\helloWorldwith.NET\\helloWorldwith.NET.csproj",
+      "projectUniqueName": "C:\\Users\\José\\Documents\\GitHub\\deberesObjetosSemana6\\deberesObjetos\\TA\\DOTNET Project\\helloWorldwith.NET\\helloWorldwith.NET.csproj",
       "projectName": "helloWorldwith.NET",
-      "projectPath": "C:\\Users\\José\\Documents\\GitHub\\deberesObjetosSemana5\\deberesObjetos\\TA\\DOTNET Project\\helloWorldwith.NET\\helloWorldwith.NET.csproj",
+      "projectPath": "C:\\Users\\José\\Documents\\GitHub\\deberesObjetosSemana6\\deberesObjetos\\TA\\DOTNET Project\\helloWorldwith.NET\\helloWorldwith.NET.csproj",
       "packagesPath": "C:\\Users\\José\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\José\\Documents\\GitHub\\deberesObjetosSemana5\\deberesObjetos\\TA\\DOTNET Project\\helloWorldwith.NET\\obj\\",
+      "outputPath": "C:\\Users\\José\\Documents\\GitHub\\deberesObjetosSemana6\\deberesObjetos\\TA\\DOTNET Project\\helloWorldwith.NET\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\José\\AppData\\Roaming\\NuGet\\NuGet.Config"
