@@ -14,7 +14,7 @@ import { ChildComponent } from '../child/child.component';
   styleUrls: ['./father.component.css']
 })
 export class FatherComponent implements AfterViewInit, AfterContentInit {
-  parentMessageInput = 'Quiero de forma urgente, un informe de todos los productos de la empresa';
+  parentMessageInput = 'Quiero de forma urgente, un informe de todos los teléfonos gama alta que tiene nuestra empresa';
   childMessageEventOutput = '';
 
   @ViewChild(ChildComponent) childComponent!: ChildComponent;
@@ -26,8 +26,8 @@ export class FatherComponent implements AfterViewInit, AfterContentInit {
 
   ngAfterViewInit() {
     Promise.resolve().then(() => {
-      this.childComponent.parentMessageViewChild = 'De forma remota voy hacer uso del exoesqueleto(Variables del Hijo) ' +
-        'que tienes instalado para hacer una verificar el informe';
+      this.childComponent.parentMessageViewChild = 'De forma remota voy hacer uso del exoesqueleto ' +
+        'que tienes instalado para hacer una verificación del informe de los dispositivos';
     });
   }
 
